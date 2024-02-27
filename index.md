@@ -13,3 +13,10 @@ And a brief description.
 And this is a new topic.
 Text can be in <b>bold</b> and in <i>italic</i>.
 Isn't that fun? ☻
+
+##### but that's not all...
+
+![Image of Cat Punch](https://media.tenor.com/njH7f_pS0EgAAAAe/punching-cat.png)
+
+Images can be included! <i> Yey! </i>
+They can be immediately visualized (!) or linked (without !).
