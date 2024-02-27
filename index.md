@@ -29,9 +29,23 @@ Here's the code for including images:
 ![Image Title](image URL)
 ```
 
+#### what about checklists...?
+
+Here they are!
+
+- [x] Read this
+- [ ] And this too
+- [ ] Lists are fun
+
+######
+And here's the code for checklists:
+
+```
+- [X] Step 1
+- [ ] Step 2
+- [ ] Step 3
+```
+
 Have fun! ♥
 
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
 
