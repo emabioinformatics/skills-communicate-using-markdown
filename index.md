@@ -30,3 +30,8 @@ Here's the code for including images:
 ```
 
 Have fun! ♥
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
