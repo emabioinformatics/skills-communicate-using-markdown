@@ -20,3 +20,13 @@ Isn't that fun? ☻
 
 Images can be included! <i> Yey! </i>
 They can be immediately visualized (!) or linked (without !).
+
+###### 
+Here's the code for including images:
+######
+
+``` 
+![Image Title](image URL)
+```
+
+Have fun! ♥
